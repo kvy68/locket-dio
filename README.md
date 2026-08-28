@@ -5,7 +5,7 @@
 > 
 > API và tính năng đều không dùng được vì chưa deploy API mới.
 
-#Repo Locket API mới
+# Repo Locket API mới
 [![GitHub Repo](https://img.shields.io/badge/LocketMini-yellow.svg)](https://github.com/itskevinz/locket-mini)
 
 <div align="center">
