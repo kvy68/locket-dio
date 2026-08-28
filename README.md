@@ -1,5 +1,10 @@
 # 📸 Huy Locket
 
+> [!WARNING]
+> **Repo này chỉ có source để học tập thôi**
+> 
+> API và tính năng đều không dùng được vì chưa deploy API mới.
+
 <div align="center">
 
 
